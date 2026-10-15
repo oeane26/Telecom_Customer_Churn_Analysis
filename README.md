@@ -1,9 +1,9 @@
-# Telecom_Customer_Churn_Analysis
-Telecommunication Customer Churn Analysis & Prediction of Orange Côte d’Ivoire
+# Telecommunication Customer Churn Analysis & Prediction | Synthetic Telecom Dataset Inspired by Customers of Orange Côte d’Ivoire
 
 Executive Summary
+This portfolio project uses synthetic customer data and does not represent actual customer records or performance results from Orange Côte d’Ivoire.
 
-Telecommunications companies risk losing recurring revenue when customers leave. Because retention resources are limited, identifying high-risk customers and contract segments is essential.
+ Telecommunications companies risk losing recurring revenue when customers leave. Because retention resources are limited, identifying high-risk customers and contract segments is essential.
 
 This project analyzes 7,500 customer records to quantify churn, assess potential revenue exposure, and evaluate whether machine learning can support targeted retention efforts.
 
