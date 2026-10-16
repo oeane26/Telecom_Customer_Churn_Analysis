@@ -63,3 +63,13 @@ Future Improvements
 * Improve classification performance through feature engineering and threshold tuning.
 * Add model interpretability analysis.
 * Publish the interactive Tableau dashboard.
+
+## Interactive Tableau Dashboard
+
+Explore the interactive Customer Churn &
+Retention Dashboard built in Tableau Public.
+
+[View the Telecom Customer Churn Dashboard](https://public.tableau.com/app/profile/maeva.boko/viz/TelecomCustomerChurnAnalysisCustomerRetentionDashboard/Dashboard1)
+
+The dashboard supports exploration of customer churn patterns, contract types, and customer retention insights using synthetic telecom data.
+
